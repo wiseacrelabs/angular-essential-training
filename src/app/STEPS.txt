@@ -1,0 +1,4 @@
+
+
+// scaffold component using Angular CLI
+ ng generate component media-item
